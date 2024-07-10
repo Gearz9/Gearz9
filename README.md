@@ -5,7 +5,7 @@ I am passionate about web development, cloud engineering, and DevOps. With a str
 
 ## Skills
 - **Languages**: C, C++, Java, JavaScript
-- **Frameworks and Libraries**: React.js, Next.js, Express
+- **Frameworks and Libraries**: React.js, Next.js, Express, React-Native
 - **Databases**: MongoDB, MySQL
 - **DevOps Tools**: Docker, Ansible, Kubernetes, Terraform
 - **Others**: Web Development, Cloud Engineering
@@ -20,7 +20,6 @@ I am passionate about web development, cloud engineering, and DevOps. With a str
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/tushar-maurya-78326122a/)
-- [Personal Website](https://yourwebsite.com) <!-- Optional if you have a website -->
 
 ## Contact
 You can reach me at tusharmaurya43@gmail.com
