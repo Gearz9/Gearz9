@@ -11,8 +11,15 @@ I am passionate about web development, cloud engineering, and DevOps. With a str
 - **Others**: Web Development, Cloud Engineering
 
 ## GitHub Stats
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gearz9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gearz9&layout=compact&theme=radical)
+
+## Badges
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ## Achievements
 - Contributed to the development of a website for Creador Foundation.
