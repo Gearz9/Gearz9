@@ -7,18 +7,27 @@ I am passionate about web development, cloud engineering, and DevOps. With a str
 - **Languages**: C, C++, Java, JavaScript
 - **Frameworks and Libraries**: React.js, Next.js, Express, React-Native
 - **Databases**: MongoDB, MySQL
-- **DevOps Tools**: Docker, Ansible, Kubernetes, Terraform
+- **DevOps Tools**: Docker, Ansible, Kubernetes, Terraform, AWS
 - **Others**: Web Development, Cloud Engineering
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gearz9&layout=compact&theme=radical)
 
 ## Badges
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ## Achievements
@@ -30,5 +39,3 @@ I am passionate about web development, cloud engineering, and DevOps. With a str
 
 ## Contact
 You can reach me at tusharmaurya43@gmail.com
-
-
